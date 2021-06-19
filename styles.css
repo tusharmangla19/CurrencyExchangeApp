@@ -39,7 +39,6 @@ p {
 }
 
 .currency {
-	/* top-bottom left-right */
 	padding: 40px 0;
 	display: flex;
 }
